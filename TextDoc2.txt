@@ -1,1 +1,3 @@
 text doc 2.
+
+Mian added new line.
